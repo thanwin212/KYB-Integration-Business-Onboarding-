@@ -4,6 +4,10 @@
 
 This project implemented a complete KYB (Know Your Business) onboarding solution using a third-party provider, enabling digital onboarding for merchants.
 
+Project Length:
+Starte Date: 1 July 2025 
+End Date: 30 March 2026
+
 🎯 **Objectives**
 Digitize business onboarding
 Automate document verification
@@ -23,30 +27,31 @@ Defined onboarding stages and requirements
 Managed vendor integration
 Designed document workflows
 Led UAT and release
+Resource Management
+Release Control
+Scope Defining
 
 ⚠️ **Challenges & Solutions**
 1. Document Variability
 
 Challenge: Different business requirements
-Solution:
+Solution:Built dynamic document engine
 
-Built dynamic document engine
 2. OCR Limitations
 
 Challenge: Parsing business documents
-Solution:
+Solution:Tuned OCR with vendor
 
-Tuned OCR with vendor
 3. Workflow Complexity
 
 Challenge: Multiple onboarding stages
 Solution:
-
 Designed clear state transitions
+
 4. API Reliability
 
 Challenge: Integration failures
-Solution:
+Solution: Continuous vendor communication and support
 
 🧠 **Key Skills Demonstrated**
 KYB Process Design
